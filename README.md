@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrissCoDes
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning HTML,CSS, javascript and python 
+- 🌱 I’m currently learning HTML,CSS, JAVASCRIPT AND PYTHON
 - 💞️ I’m looking to collaborate on self driving cars, automated highways, robot programming, Apps Development  
 - 📫 How to reach me at veras.cristhian01@icloud.com
 
